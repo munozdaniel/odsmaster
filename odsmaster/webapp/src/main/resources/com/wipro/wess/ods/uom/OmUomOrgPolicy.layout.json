@@ -1,0 +1,77 @@
+{
+  "columns": [
+    {
+      "span": 4,
+      "memberGroups": {
+        "General": {
+          "members": {
+            "MUnit": {
+              "hidden": {
+                "where": "ALL_TABLES"
+              }
+            },
+            "MUnitFamily": {
+              "hidden": {
+                "where": "ALL_TABLES"
+              }
+            },
+            "changeDate": {
+              "hidden": {
+                "where": "OBJECT_FORMS"
+              },
+              "typicalLength": {
+                "value": 18
+              }
+            },
+            "measureAlias": {
+              "hidden": {
+                "where": "ALL_TABLES"
+              },
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "measureEntityId": {},
+            "measureId": {},
+            "orgId": {},
+            "recordId": {
+              "hidden": {
+                "where": "OBJECT_FORMS"
+              },
+              "typicalLength": {
+                "value": 9
+              }
+            },
+            "sourceId": {
+              "hidden": {
+                "where": "ALL_TABLES"
+              },
+              "typicalLength": {
+                "value": 18
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "span": 0,
+      "memberGroups": {}
+    },
+    {
+      "span": 0,
+      "memberGroups": {}
+    },
+    {
+      "span": 8,
+      "collections": {}
+    }
+  ],
+  "actions": {
+    "downloadLayout": {
+      "named": {
+        "value": "Download Layout"
+      }
+    }
+  }
+}

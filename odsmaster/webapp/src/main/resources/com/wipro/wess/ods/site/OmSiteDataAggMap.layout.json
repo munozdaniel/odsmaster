@@ -1,0 +1,48 @@
+{
+  "columns": [
+    {
+      "span": 4,
+      "memberGroups": {
+        "General": {
+          "members": {
+            "dataAggName": {
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "ipAddress": {
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "omSite": {},
+            "port": {
+              "typicalLength": {
+                "value": 9
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "span": 0,
+      "memberGroups": {}
+    },
+    {
+      "span": 0,
+      "memberGroups": {}
+    },
+    {
+      "span": 8,
+      "collections": {}
+    }
+  ],
+  "actions": {
+    "downloadLayout": {
+      "named": {
+        "value": "Download Layout"
+      }
+    }
+  }
+}

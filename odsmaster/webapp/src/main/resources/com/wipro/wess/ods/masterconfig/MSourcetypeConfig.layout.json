@@ -1,0 +1,106 @@
+{
+  "columns": [
+    {
+      "span": 4,
+      "memberGroups": {
+        "General": {
+          "members": {
+            "description": {
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "displayName": {
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "insertedBy": {
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "insertedTimeTs": {
+              "typicalLength": {
+                "value": 18
+              }
+            },
+            "sourceId": {
+              "typicalLength": {
+                "value": 18
+              }
+            },
+            "sourcetypeId": {
+              "typicalLength": {
+                "value": 18
+              }
+            },
+            "typeCode": {
+              "typicalLength": {
+                "value": 25
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "span": 0,
+      "memberGroups": {}
+    },
+    {
+      "span": 0,
+      "memberGroups": {}
+    },
+    {
+      "span": 8,
+      "collections": {
+        "omOrgSrefNames": {
+          "paged": {
+            "value": 12
+          }
+        }
+      }
+    }
+  ],
+  "actions": {
+    "downloadLayout": {
+      "named": {
+        "value": "Download Layout"
+      }
+    },
+    "delete": {
+      "named": {
+        "value": "Delete"
+      },
+      "cssClass": {
+        "value": "x-caution"
+      }
+    },
+    "createOrgSrefName": {
+      "named": {
+        "value": "Create Org Sref Name"
+      }
+    },
+    "createSiteRefFormula": {
+      "named": {
+        "value": "Create Site ref formula"
+      }
+    },
+    "createMsaConsFr": {
+      "named": {
+        "value": "Create Msa Cons Formula"
+      }
+    },
+    "createMsaConsStFr": {
+      "named": {
+        "value": "Create Msa Cons ServiceType Formula"
+      }
+    },
+    "createMsaConsStsubtFr": {
+      "named": {
+        "value": "Create Msa Cons ServiceSubType Formula"
+      }
+    }
+  }
+}

@@ -1,0 +1,279 @@
+{
+  "columns": [
+    {
+      "span": 4,
+      "memberGroups": {
+        "General": {
+          "members": {
+            "MAssetclass": {},
+            "assetTag": {
+              "hidden": {
+                "where": "ALL_TABLES"
+              },
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "assetUid": {
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "changeby": {
+              "hidden": {
+                "where": "OBJECT_FORMS"
+              },
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "changedate": {
+              "hidden": {
+                "where": "OBJECT_FORMS"
+              },
+              "typicalLength": {
+                "value": 18
+              }
+            },
+            "description": {
+              "hidden": {
+                "where": "ALL_TABLES"
+              },
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "installdate": {
+              "hidden": {
+                "where": "ALL_TABLES"
+              },
+              "typicalLength": {
+                "value": 18
+              }
+            },
+            "ipAddress": {
+              "hidden": {
+                "where": "ALL_TABLES"
+              },
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "loadbatch": {
+              "hidden": {
+                "where": "ALL_TABLES"
+              },
+              "typicalLength": {
+                "value": 18
+              }
+            },
+            "loaddate": {
+              "hidden": {
+                "where": "ALL_TABLES"
+              },
+              "typicalLength": {
+                "value": 18
+              }
+            },
+            "manufacturer": {
+              "hidden": {
+                "where": "ALL_TABLES"
+              },
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "meterType": {
+              "hidden": {
+                "where": "ALL_TABLES"
+              },
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "model": {
+              "hidden": {
+                "where": "ALL_TABLES"
+              },
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "omLocationHierarchy": {
+              "hidden": {
+                "where": "ALL_TABLES"
+              }
+            },
+            "organisation": {},
+            "parentAssetUid": {
+              "hidden": {
+                "where": "ALL_TABLES"
+              }
+            },
+            "parentMeter": {
+              "hidden": {
+                "where": "ALL_TABLES"
+              },
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "physicalLocation": {
+              "hidden": {
+                "where": "ALL_TABLES"
+              },
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "rootAssetUid": {
+              "hidden": {
+                "where": "ALL_TABLES"
+              },
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "rowseqId": {
+              "hidden": {
+                "where": "OBJECT_FORMS"
+              },
+              "typicalLength": {
+                "value": 9
+              }
+            },
+            "serialNum": {
+              "hidden": {
+                "where": "ALL_TABLES"
+              },
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "serviceGroup": {
+              "hidden": {
+                "where": "ALL_TABLES"
+              },
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "serviceSubtype": {
+              "hidden": {
+                "where": "ALL_TABLES"
+              },
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "sourceId": {
+              "hidden": {
+                "where": "ALL_TABLES"
+              },
+              "typicalLength": {
+                "value": 18
+              }
+            },
+            "status": {
+              "hidden": {
+                "where": "ALL_TABLES"
+              },
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "subtype": {
+              "hidden": {
+                "where": "ALL_TABLES"
+              },
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "subtypeLvl2": {
+              "hidden": {
+                "where": "ALL_TABLES"
+              },
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "type": {
+              "hidden": {
+                "where": "ALL_TABLES"
+              },
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "vendor": {
+              "hidden": {
+                "where": "ALL_TABLES"
+              },
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "yearPurchased": {
+              "hidden": {
+                "where": "ALL_TABLES"
+              },
+              "typicalLength": {
+                "value": 18
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "span": 0,
+      "memberGroups": {}
+    },
+    {
+      "span": 0,
+      "memberGroups": {}
+    },
+    {
+      "span": 8,
+      "collections": {}
+    }
+  ],
+  "actions": {
+    "downloadLayout": {
+      "named": {
+        "value": "Download Layout"
+      }
+    },
+    "createAssetspec": {
+      "named": {
+        "value": "Create Assetspec"
+      }
+    },
+    "createAssetInfoElement": {
+      "named": {
+        "value": "Create Asset Info Element"
+      }
+    },
+    "createPointpath": {
+      "named": {
+        "value": "Create Pointpath"
+      }
+    },
+    "createScaMonitorAssetMap": {
+      "named": {
+        "value": "Create Sca Monitor asset map"
+      }
+    },
+    "createAssetInputService": {
+      "named": {
+        "value": "Create Asset Input Service"
+      }
+    },
+    "createAssetOutputService": {
+      "named": {
+        "value": "Create Asset Output Service"
+      }
+    }
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "columns": [
+    {
+      "span": 4,
+      "memberGroups": {
+        "General": {
+          "members": {
+            "energyidenityCode": {
+              "hidden": {
+                "where": "ALL_TABLES"
+              },
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "estimationEnabled": {
+              "hidden": {
+                "where": "ALL_TABLES"
+              },
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "functionalType": {
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "identificationCode": {
+              "hidden": {
+                "where": "ALL_TABLES"
+              },
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "identificationCodeType": {
+              "hidden": {
+                "where": "ALL_TABLES"
+              },
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "insertedBy": {
+              "hidden": {
+                "where": "OBJECT_FORMS"
+              },
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "insertedTimeTs": {
+              "hidden": {
+                "where": "OBJECT_FORMS"
+              },
+              "typicalLength": {
+                "value": 18
+              }
+            },
+            "meterUid": {
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "omUtilitySupplier": {},
+            "site": {},
+            "sourceId": {
+              "hidden": {
+                "where": "ALL_TABLES"
+              },
+              "typicalLength": {
+                "value": 18
+              }
+            },
+            "status": {
+              "hidden": {
+                "where": "ALL_TABLES"
+              },
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "subtype": {
+              "hidden": {
+                "where": "ALL_TABLES"
+              },
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "subtypeLvl2": {
+              "hidden": {
+                "where": "ALL_TABLES"
+              },
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "unitOfMeasurement": {
+              "hidden": {
+                "where": "ALL_TABLES"
+              },
+              "typicalLength": {
+                "value": 25
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "span": 0,
+      "memberGroups": {}
+    },
+    {
+      "span": 0,
+      "memberGroups": {}
+    },
+    {
+      "span": 8,
+      "collections": {}
+    }
+  ],
+  "actions": {
+    "downloadLayout": {
+      "named": {
+        "value": "Download Layout"
+      }
+    }
+  }
+}

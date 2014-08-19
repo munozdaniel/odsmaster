@@ -1,0 +1,83 @@
+{
+  "columns": [
+    {
+      "span": 4,
+      "memberGroups": {
+        "General": {
+          "members": {
+            "assetUid": {},
+            "changeby": {
+              "hidden": {},
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "changedt": {
+              "hidden": {},
+              "typicalLength": {
+                "value": 18
+              }
+            },
+            "description": {
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "loadbatch": {
+              "hidden": {},
+              "typicalLength": {
+                "value": 18
+              }
+            },
+            "loaddate": {
+              "hidden": {},
+              "typicalLength": {
+                "value": 18
+              }
+            },
+            "monitoringAssetUid": {
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "orgId": {},
+            "outputserviceAssetUid": {},
+            "rowseqId": {
+              "hidden": {},
+              "typicalLength": {
+                "value": 9
+              }
+            },
+            "sourceId": {
+              "hidden": {
+                "where": "ALL_TABLES"
+              },
+              "typicalLength": {
+                "value": 18
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "span": 0,
+      "memberGroups": {}
+    },
+    {
+      "span": 0,
+      "memberGroups": {}
+    },
+    {
+      "span": 8,
+      "collections": {}
+    }
+  ],
+  "actions": {
+    "downloadLayout": {
+      "named": {
+        "value": "Download Layout"
+      }
+    }
+  }
+}

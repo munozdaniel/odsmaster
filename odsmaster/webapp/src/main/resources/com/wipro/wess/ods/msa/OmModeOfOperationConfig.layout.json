@@ -1,0 +1,61 @@
+{
+  "columns": [
+    {
+      "span": 4,
+      "memberGroups": {
+        "General": {
+          "members": {
+            "modeDescription": {
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "modeName": {
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "organisation": {},
+            "sourceId": {
+              "hidden": {
+                "where": "ALL_TABLES"
+              },
+              "typicalLength": {
+                "value": 18
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "span": 0,
+      "memberGroups": {}
+    },
+    {
+      "span": 0,
+      "memberGroups": {}
+    },
+    {
+      "span": 8,
+      "collections": {}
+    }
+  ],
+  "actions": {
+    "downloadLayout": {
+      "named": {
+        "value": "Download Layout"
+      }
+    },
+    "persist": {
+      "named": {
+        "value": "Persist"
+      }
+    },
+    "createMsaModeopDef": {
+      "named": {
+        "value": "Create Msa Mode Opr Def"
+      }
+    }
+  }
+}

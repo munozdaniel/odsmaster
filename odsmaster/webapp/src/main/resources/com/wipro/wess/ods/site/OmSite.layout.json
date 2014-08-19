@@ -1,0 +1,392 @@
+{
+  "columns": [
+    {
+      "span": 4,
+      "memberGroups": {
+        "General": {
+          "members": {
+            "MSector": {
+              "hidden": {
+                "where": "ALL_TABLES"
+              }
+            },
+            "activeDate": {
+              "hidden": {
+                "where": "ALL_TABLES"
+              },
+              "typicalLength": {
+                "value": 18
+              }
+            },
+            "approachName": {
+              "hidden": {
+                "where": "ALL_TABLES"
+              },
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "ashraeOatLlSetpoint": {
+              "hidden": {
+                "where": "ALL_TABLES"
+              },
+              "typicalLength": {
+                "value": 10
+              }
+            },
+            "ashraeOatSetpoint": {
+              "hidden": {
+                "where": "ALL_TABLES"
+              },
+              "typicalLength": {
+                "value": 10
+              }
+            },
+            "businessFunction": {
+              "hidden": {
+                "where": "ALL_TABLES"
+              },
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "categoryType": {
+              "hidden": {
+                "where": "ALL_TABLES"
+              },
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "changeBy": {
+              "hidden": {
+                "where": "OBJECT_FORMS"
+              },
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "changeDt": {
+              "hidden": {
+                "where": "OBJECT_FORMS"
+              },
+              "typicalLength": {
+                "value": 18
+              }
+            },
+            "city": {
+              "hidden": {
+                "where": "ALL_TABLES"
+              },
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "country": {
+              "hidden": {
+                "where": "ALL_TABLES"
+              },
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "ecoDeviationThreshold": {
+              "hidden": {
+                "where": "ALL_TABLES"
+              },
+              "typicalLength": {
+                "value": 10
+              }
+            },
+            "ecoUtilHrsThreshold": {
+              "hidden": {
+                "where": "ALL_TABLES"
+              },
+              "typicalLength": {
+                "value": 10
+              }
+            },
+            "inActiveDate": {
+              "hidden": {
+                "where": "ALL_TABLES"
+              },
+              "typicalLength": {
+                "value": 18
+              }
+            },
+            "latitude": {
+              "hidden": {
+                "where": "ALL_TABLES"
+              },
+              "typicalLength": {
+                "value": 10
+              }
+            },
+            "leaseType": {
+              "hidden": {
+                "where": "ALL_TABLES"
+              },
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "longitude": {
+              "hidden": {
+                "where": "ALL_TABLES"
+              },
+              "typicalLength": {
+                "value": 10
+              }
+            },
+            "oatCalWriteback": {
+              "hidden": {
+                "where": "ALL_TABLES"
+              },
+              "typicalLength": {
+                "value": 1
+              }
+            },
+            "oatOffsetAdjust": {
+              "hidden": {
+                "where": "ALL_TABLES"
+              },
+              "typicalLength": {
+                "value": 10
+              }
+            },
+            "oatOffsetOid": {
+              "hidden": {
+                "where": "ALL_TABLES"
+              },
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "omAddress": {
+              "hidden": {
+                "where": "ALL_TABLES"
+              }
+            },
+            "omGeoLocation": {
+              "hidden": {
+                "where": "ALL_TABLES"
+              }
+            },
+            "orgId": {},
+            "parentOmSite": {},
+            "peopleCount": {
+              "hidden": {
+                "where": "ALL_TABLES"
+              },
+              "typicalLength": {
+                "value": 10
+              }
+            },
+            "postalAddress": {
+              "hidden": {
+                "where": "ALL_TABLES"
+              },
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "siteDesc": {
+              "hidden": {
+                "where": "ALL_TABLES"
+              },
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "siteId": {
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "siteName": {
+              "hidden": {
+                "where": "ALL_TABLES"
+              },
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "siteTimezone": {
+              "hidden": {
+                "where": "ALL_TABLES"
+              },
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "siteType": {
+              "hidden": {
+                "where": "ALL_TABLES"
+              },
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "state": {
+              "hidden": {
+                "where": "ALL_TABLES"
+              },
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "totalArea": {
+              "hidden": {
+                "where": "ALL_TABLES"
+              },
+              "typicalLength": {
+                "value": 10
+              }
+            },
+            "totalAreaUnitId": {
+              "hidden": {
+                "where": "ALL_TABLES"
+              },
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "totalOccupiedArea": {
+              "hidden": {
+                "where": "ALL_TABLES"
+              },
+              "typicalLength": {
+                "value": 10
+              }
+            },
+            "totalOccupiedUnitId": {
+              "hidden": {
+                "where": "ALL_TABLES"
+              },
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "type": {
+              "hidden": {
+                "where": "ALL_TABLES"
+              },
+              "typicalLength": {
+                "value": 9
+              }
+            },
+            "weatherStation": {
+              "hidden": {
+                "where": "ALL_TABLES"
+              },
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "zipcode": {
+              "hidden": {
+                "where": "ALL_TABLES"
+              },
+              "typicalLength": {
+                "value": 25
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "span": 0,
+      "memberGroups": {}
+    },
+    {
+      "span": 0,
+      "memberGroups": {}
+    },
+    {
+      "span": 8,
+      "collections": {
+        "msaSites": {
+          "paged": {
+            "value": 12
+          }
+        },
+        "sites": {
+          "paged": {
+            "value": 12
+          }
+        }
+      }
+    }
+  ],
+  "actions": {
+    "downloadLayout": {
+      "named": {
+        "value": "Download Layout"
+      }
+    },
+    "delete": {
+      "named": {
+        "value": "Delete"
+      },
+      "cssClass": {
+        "value": "x-caution"
+      }
+    },
+    "createSiteDataAggMap": {
+      "named": {
+        "value": "Create Site Data Agg Map"
+      }
+    },
+    "createSiteExtdAttr": {
+      "named": {
+        "value": "Create Site Extended Attr"
+      }
+    },
+    "createSiteInfoElement": {
+      "named": {
+        "value": "Create Site Info Element"
+      }
+    },
+    "createSiteRefFormula": {
+      "named": {
+        "value": "Create Site ref formula"
+      }
+    },
+    "groupTheSites": {
+      "named": {
+        "value": "Group The Sites"
+      }
+    },
+    "createMeterConfig": {
+      "named": {
+        "value": "Create Meter config"
+      }
+    },
+    "createMsaConfig": {
+      "named": {
+        "value": "Create Msa config"
+      }
+    },
+    "createScaConfig": {
+      "named": {
+        "value": "Create Sca config"
+      }
+    },
+    "createServiceConfig": {
+      "named": {
+        "value": "Create Service config"
+      }
+    },
+    "createSupplierAsset": {
+      "named": {
+        "value": "Create Supplier Asset"
+      }
+    },
+    "create": {
+      "named": {
+        "value": "Create"
+      }
+    }
+  }
+}

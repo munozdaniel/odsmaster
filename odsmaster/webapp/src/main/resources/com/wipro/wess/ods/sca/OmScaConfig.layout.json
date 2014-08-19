@@ -1,0 +1,216 @@
+{
+  "columns": [
+    {
+      "span": 4,
+      "memberGroups": {
+        "General": {
+          "members": {
+            "adjustTempBand": {
+              "hidden": {
+                "where": "ALL_TABLES"
+              },
+              "typicalLength": {
+                "value": 10
+              }
+            },
+            "areaType": {
+              "hidden": {
+                "where": "ALL_TABLES"
+              },
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "changeBy": {
+              "hidden": {
+                "where": "OBJECT_FORMS"
+              },
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "changeDt": {
+              "hidden": {
+                "where": "OBJECT_FORMS"
+              },
+              "typicalLength": {
+                "value": 18
+              }
+            },
+            "coolingProfileOffset": {
+              "hidden": {
+                "where": "ALL_TABLES"
+              },
+              "typicalLength": {
+                "value": 9
+              }
+            },
+            "description": {
+              "hidden": {
+                "where": "ALL_TABLES"
+              },
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "fcHighTempLimit": {
+              "hidden": {
+                "where": "ALL_TABLES"
+              },
+              "typicalLength": {
+                "value": 10
+              }
+            },
+            "fcLowTempLimit": {
+              "hidden": {
+                "where": "ALL_TABLES"
+              },
+              "typicalLength": {
+                "value": 10
+              }
+            },
+            "heatingProfileOffset": {
+              "hidden": {
+                "where": "ALL_TABLES"
+              },
+              "typicalLength": {
+                "value": 9
+              }
+            },
+            "highRhLimit": {
+              "hidden": {
+                "where": "ALL_TABLES"
+              },
+              "typicalLength": {
+                "value": 10
+              }
+            },
+            "highTempLimit": {
+              "hidden": {
+                "where": "ALL_TABLES"
+              },
+              "typicalLength": {
+                "value": 10
+              }
+            },
+            "lowRhLimit": {
+              "hidden": {
+                "where": "ALL_TABLES"
+              },
+              "typicalLength": {
+                "value": 10
+              }
+            },
+            "lowTempLimit": {
+              "hidden": {
+                "where": "ALL_TABLES"
+              },
+              "typicalLength": {
+                "value": 10
+              }
+            },
+            "omSite": {},
+            "overcoolingThresholdPercent": {
+              "hidden": {
+                "where": "ALL_TABLES"
+              },
+              "typicalLength": {
+                "value": 10
+              }
+            },
+            "scaName": {
+              "hidden": {
+                "where": "ALL_TABLES"
+              },
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "scaUid": {
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "status": {
+              "hidden": {
+                "where": "ALL_TABLES"
+              },
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "suboptThermalDeviation": {
+              "hidden": {
+                "where": "ALL_TABLES"
+              },
+              "typicalLength": {
+                "value": 10
+              }
+            },
+            "subtypeLvl2": {
+              "hidden": {
+                "where": "ALL_TABLES"
+              },
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "undercoolingThresholdPercent": {
+              "hidden": {
+                "where": "ALL_TABLES"
+              },
+              "typicalLength": {
+                "value": 10
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "span": 0,
+      "memberGroups": {}
+    },
+    {
+      "span": 0,
+      "memberGroups": {}
+    },
+    {
+      "span": 8,
+      "collections": {
+        "scaConfigExtAttrs": {
+          "paged": {
+            "value": 12
+          }
+        }
+      }
+    }
+  ],
+  "actions": {
+    "downloadLayout": {
+      "named": {
+        "value": "Download Layout"
+      }
+    },
+    "createMsaScaMap": {
+      "named": {
+        "value": "Create Msa Sca Map"
+      }
+    },
+    "createScaConfigExtAttr": {
+      "named": {
+        "value": "Create Sca config extended attr"
+      }
+    },
+    "createScaMonitorAssetMap": {
+      "named": {
+        "value": "Create Sca Monitor asset map"
+      }
+    },
+    "createScaServiceMap": {
+      "named": {
+        "value": "Create Sca Service Map"
+      }
+    }
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "columns": [
+    {
+      "span": 4,
+      "memberGroups": {
+        "General": {
+          "members": {
+            "groupName": {
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "sitegroupId": {
+              "typicalLength": {
+                "value": 18
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "span": 0,
+      "memberGroups": {}
+    },
+    {
+      "span": 0,
+      "memberGroups": {}
+    },
+    {
+      "span": 8,
+      "collections": {
+        "sites": {
+          "paged": {
+            "value": 12
+          },
+          "render": {
+            "value": "EAGERLY"
+          }
+        }
+      }
+    }
+  ],
+  "actions": {
+    "downloadLayout": {
+      "named": {
+        "value": "Download Layout"
+      }
+    },
+    "add": {
+      "named": {
+        "value": "Add"
+      }
+    },
+    "remove": {
+      "named": {
+        "value": "Remove"
+      },
+      "cssClass": {
+        "value": "x-caution"
+      }
+    },
+    "updateMsa": {
+      "named": {
+        "value": "Update MSA attributes"
+      }
+    },
+    "updateSite": {
+      "named": {
+        "value": "Update Site attributes"
+      }
+    }
+  }
+}

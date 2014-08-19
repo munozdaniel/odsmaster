@@ -1,0 +1,151 @@
+{
+  "columns": [
+    {
+      "span": 4,
+      "memberGroups": {
+        "General": {
+          "members": {
+            "changeBy": {
+              "hidden": {
+                "where": "OBJECT_FORMS"
+              },
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "changeTs": {
+              "hidden": {
+                "where": "OBJECT_FORMS"
+              },
+              "typicalLength": {
+                "value": 18
+              }
+            },
+            "description": {
+              "hidden": {
+                "where": "ALL_TABLES"
+              },
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "energyCostPerUnit": {
+              "hidden": {
+                "where": "ALL_TABLES"
+              },
+              "typicalLength": {
+                "value": 10
+              }
+            },
+            "isByproduct": {
+              "hidden": {
+                "where": "ALL_TABLES"
+              },
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "serviceEffFormula": {
+              "hidden": {
+                "where": "ALL_TABLES"
+              },
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "serviceQaFormula": {
+              "hidden": {
+                "where": "ALL_TABLES"
+              },
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "serviceQtyFormula": {
+              "hidden": {
+                "where": "ALL_TABLES"
+              },
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "serviceType": {
+              "hidden": {
+                "where": "ALL_TABLES"
+              },
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "serviceUid": {
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "site": {},
+            "status": {
+              "hidden": {
+                "where": "ALL_TABLES"
+              },
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "subtypeLvl2": {
+              "hidden": {
+                "where": "ALL_TABLES"
+              },
+              "typicalLength": {
+                "value": 25
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "span": 0,
+      "memberGroups": {}
+    },
+    {
+      "span": 0,
+      "memberGroups": {}
+    },
+    {
+      "span": 8,
+      "collections": {}
+    }
+  ],
+  "actions": {
+    "downloadLayout": {
+      "named": {
+        "value": "Download Layout"
+      }
+    },
+    "createMsaServiceMap": {
+      "named": {
+        "value": "Create Msa Service Map"
+      }
+    },
+    "createScaServiceMap": {
+      "named": {
+        "value": "Create Sca Service Map"
+      }
+    },
+    "createSuplAssetServiceMap": {
+      "named": {
+        "value": "Create Supplier Asset Service Map"
+      }
+    },
+    "createAssetInputService": {
+      "named": {
+        "value": "Create Asset Input Service"
+      }
+    },
+    "createAssetOutputService": {
+      "named": {
+        "value": "Create Asset Output Service"
+      }
+    }
+  }
+}

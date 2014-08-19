@@ -1,0 +1,116 @@
+{
+  "columns": [
+    {
+      "span": 4,
+      "memberGroups": {
+        "General": {
+          "members": {
+            "changeDate": {
+              "hidden": {
+                "where": "OBJECT_FORMS"
+              },
+              "typicalLength": {
+                "value": 18
+              }
+            },
+            "measureEntityDesc": {
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "measureEntityId": {
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "recordId": {
+              "hidden": {
+                "where": "OBJECT_FORMS"
+              },
+              "typicalLength": {
+                "value": 9
+              }
+            },
+            "sourceId": {
+              "hidden": {
+                "where": "ALL_TABLES"
+              },
+              "typicalLength": {
+                "value": 18
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "span": 0,
+      "memberGroups": {}
+    },
+    {
+      "span": 0,
+      "memberGroups": {}
+    },
+    {
+      "span": 8,
+      "collections": {}
+    }
+  ],
+  "actions": {
+    "downloadLayout": {
+      "named": {
+        "value": "Download Layout"
+      }
+    },
+    "createUOMdefaults": {
+      "named": {
+        "value": "Create UOM Defaults"
+      }
+    },
+    "createUOMCountryExcept": {
+      "named": {
+        "value": "Create UOM Country Except"
+      }
+    },
+    "createUOMCountryExceptAudit": {
+      "named": {
+        "value": "Create UOM Country ExceptAudit"
+      }
+    },
+    "createUOMCountryPolicy": {
+      "named": {
+        "value": "Create UOM Country Policy"
+      }
+    },
+    "createUOMCountryPolicyAudit": {
+      "named": {
+        "value": "Create UOM Country PolicyAudit"
+      }
+    },
+    "createUOMExtDataSrcExcept": {
+      "named": {
+        "value": "Create UOM Ext Data Src Except"
+      }
+    },
+    "createUOMOrgPolicy": {
+      "named": {
+        "value": "Create UOM Org Policy"
+      }
+    },
+    "createUOMOrgPolicyAudit": {
+      "named": {
+        "value": "Create UOM Org PolicyAudit"
+      }
+    },
+    "createUOMSiteExcept": {
+      "named": {
+        "value": "Create UOM Site Except"
+      }
+    },
+    "createUOMSiteExceptAudit": {
+      "named": {
+        "value": "Create UOM Site Except"
+      }
+    }
+  }
+}

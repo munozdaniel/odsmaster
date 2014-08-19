@@ -1,0 +1,121 @@
+{
+  "columns": [
+    {
+      "span": 4,
+      "memberGroups": {
+        "General": {
+          "members": {
+            "MUnit": {
+              "hidden": {
+                "where": "ALL_TABLES"
+              }
+            },
+            "MUnitFamily": {
+              "hidden": {
+                "where": "ALL_TABLES"
+              }
+            },
+            "changeby": {
+              "hidden": {
+                "where": "OBJECT_FORMS"
+              },
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "changedt": {
+              "hidden": {
+                "where": "OBJECT_FORMS"
+              },
+              "typicalLength": {
+                "value": 18
+              }
+            },
+            "endDate": {
+              "hidden": {
+                "where": "ALL_TABLES"
+              },
+              "typicalLength": {
+                "value": 18
+              }
+            },
+            "loadbatch": {
+              "hidden": {},
+              "typicalLength": {
+                "value": 18
+              }
+            },
+            "loaddate": {
+              "hidden": {},
+              "typicalLength": {
+                "value": 18
+              }
+            },
+            "measureId": {
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "measurementEntityId": {
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "rowseqId": {
+              "hidden": {},
+              "typicalLength": {
+                "value": 9
+              }
+            },
+            "site": {},
+            "sourceId": {
+              "hidden": {
+                "where": "ALL_TABLES"
+              },
+              "typicalLength": {
+                "value": 18
+              }
+            },
+            "startDate": {
+              "typicalLength": {
+                "value": 18
+              }
+            },
+            "value": {
+              "hidden": {
+                "where": "ALL_TABLES"
+              },
+              "typicalLength": {
+                "value": 10
+              }
+            },
+            "valueType": {
+              "typicalLength": {
+                "value": 25
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "span": 0,
+      "memberGroups": {}
+    },
+    {
+      "span": 0,
+      "memberGroups": {}
+    },
+    {
+      "span": 8,
+      "collections": {}
+    }
+  ],
+  "actions": {
+    "downloadLayout": {
+      "named": {
+        "value": "Download Layout"
+      }
+    }
+  }
+}

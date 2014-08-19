@@ -1,0 +1,74 @@
+{
+  "columns": [
+    {
+      "span": 4,
+      "memberGroups": {
+        "General": {
+          "members": {
+            "afterHrsFlag": {
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "omSite": {},
+            "parentSupAssetUid": {
+              "hidden": {
+                "where": "ALL_TABLES"
+              },
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "subtypeLvl2": {
+              "hidden": {
+                "where": "ALL_TABLES"
+              },
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "supAssetDesc": {
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "supAssetType": {
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "supAssetUid": {
+              "typicalLength": {
+                "value": 25
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "span": 0,
+      "memberGroups": {}
+    },
+    {
+      "span": 0,
+      "memberGroups": {}
+    },
+    {
+      "span": 8,
+      "collections": {}
+    }
+  ],
+  "actions": {
+    "downloadLayout": {
+      "named": {
+        "value": "Download Layout"
+      }
+    },
+    "createSuplAssetServiceMap": {
+      "named": {
+        "value": "Create Supplier Asset Service Map"
+      }
+    }
+  }
+}

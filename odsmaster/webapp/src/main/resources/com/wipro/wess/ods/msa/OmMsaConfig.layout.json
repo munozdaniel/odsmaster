@@ -1,0 +1,199 @@
+{
+  "columns": [
+    {
+      "span": 4,
+      "memberGroups": {
+        "General": {
+          "members": {
+            "ahThresholdPercent": {
+              "hidden": {
+                "where": "ALL_TABLES"
+              },
+              "typicalLength": {
+                "value": 10
+              }
+            },
+            "areaType": {
+              "hidden": {
+                "where": "ALL_TABLES"
+              },
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "changeBy": {
+              "hidden": {
+                "where": "OBJECT_FORMS"
+              },
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "changeDt": {
+              "hidden": {
+                "where": "OBJECT_FORMS"
+              },
+              "typicalLength": {
+                "value": 18
+              }
+            },
+            "contactOp": {
+              "hidden": {
+                "where": "ALL_TABLES"
+              },
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "description": {
+              "hidden": {
+                "where": "ALL_TABLES"
+              },
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "dlThresholdPercent": {
+              "hidden": {
+                "where": "ALL_TABLES"
+              },
+              "typicalLength": {
+                "value": 10
+              }
+            },
+            "expdWeeklyOpHrs": {
+              "hidden": {
+                "where": "ALL_TABLES"
+              },
+              "typicalLength": {
+                "value": 10
+              }
+            },
+            "expdWeeklyPsHrs": {
+              "hidden": {
+                "where": "ALL_TABLES"
+              },
+              "typicalLength": {
+                "value": 10
+              }
+            },
+            "msaName": {
+              "hidden": {
+                "where": "ALL_TABLES"
+              },
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "msaUid": {
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "orgId": {},
+            "overallArea": {
+              "hidden": {
+                "where": "ALL_TABLES"
+              },
+              "typicalLength": {
+                "value": 10
+              }
+            },
+            "peopleCount": {
+              "hidden": {
+                "where": "ALL_TABLES"
+              },
+              "typicalLength": {
+                "value": 9
+              }
+            },
+            "phThresholdPercent": {
+              "hidden": {
+                "where": "ALL_TABLES"
+              },
+              "typicalLength": {
+                "value": 10
+              }
+            },
+            "status": {
+              "hidden": {
+                "where": "ALL_TABLES"
+              },
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "subtypeLvl2": {
+              "hidden": {
+                "where": "ALL_TABLES"
+              },
+              "typicalLength": {
+                "value": 25
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "span": 0,
+      "memberGroups": {}
+    },
+    {
+      "span": 0,
+      "memberGroups": {}
+    },
+    {
+      "span": 8,
+      "collections": {
+        "omMsaModeopDefs": {
+          "paged": {
+            "value": 12
+          }
+        }
+      }
+    }
+  ],
+  "actions": {
+    "downloadLayout": {
+      "named": {
+        "value": "Download Layout"
+      }
+    },
+    "createMsaConsFr": {
+      "named": {
+        "value": "Create Msa Cons Formula"
+      }
+    },
+    "createMsaConsStFr": {
+      "named": {
+        "value": "Create Msa Cons ServiceType Formula"
+      }
+    },
+    "createMsaConsStsubtFr": {
+      "named": {
+        "value": "Create Msa Cons ServiceSubType Formula"
+      }
+    },
+    "createMsaScaMap": {
+      "named": {
+        "value": "Create Msa Sca Map"
+      }
+    },
+    "createMsaServiceMap": {
+      "named": {
+        "value": "Create Msa Service Map"
+      }
+    },
+    "createMsaModeopDef": {
+      "named": {
+        "value": "Create Msa Mode Opr Def"
+      }
+    },
+    "createScaConfig": {
+      "named": {
+        "value": "Create Sca config"
+      }
+    }
+  }
+}

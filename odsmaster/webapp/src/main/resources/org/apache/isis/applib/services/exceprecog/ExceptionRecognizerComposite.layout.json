@@ -1,0 +1,47 @@
+{
+  "columns": [
+    {
+      "span": 4,
+      "memberGroups": {}
+    },
+    {
+      "span": 0,
+      "memberGroups": {}
+    },
+    {
+      "span": 0,
+      "memberGroups": {}
+    },
+    {
+      "span": 8,
+      "collections": {}
+    }
+  ],
+  "actions": {
+    "downloadLayout": {
+      "named": {
+        "value": "Download Layout"
+      }
+    },
+    "add": {
+      "named": {
+        "value": "Add"
+      }
+    },
+    "init": {
+      "named": {
+        "value": "Init"
+      }
+    },
+    "recognize": {
+      "named": {
+        "value": "Recognize"
+      }
+    },
+    "shutdown": {
+      "named": {
+        "value": "Shutdown"
+      }
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "columns": [
+    {
+      "span": 4,
+      "memberGroups": {
+        "General": {
+          "members": {
+            "locationDetails": {
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "locationId": {
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "locationType": {
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "omGeoLocation": {},
+            "orgId": {}
+          }
+        }
+      }
+    },
+    {
+      "span": 0,
+      "memberGroups": {}
+    },
+    {
+      "span": 0,
+      "memberGroups": {}
+    },
+    {
+      "span": 8,
+      "collections": {
+        "sites": {
+          "paged": {
+            "value": 12
+          }
+        }
+      }
+    }
+  ],
+  "actions": {
+    "downloadLayout": {
+      "named": {
+        "value": "Download Layout"
+      }
+    }
+  }
+}

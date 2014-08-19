@@ -1,0 +1,149 @@
+{
+  "columns": [
+    {
+      "span": 4,
+      "memberGroups": {
+        "General": {
+          "members": {
+            "changeby": {
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "changedate": {
+              "typicalLength": {
+                "value": 18
+              }
+            },
+            "city": {
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "cityName": {
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "continent": {
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "continentName": {
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "country": {
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "countryName": {
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "loadbatch": {
+              "typicalLength": {
+                "value": 18
+              }
+            },
+            "loaddate": {
+              "typicalLength": {
+                "value": 18
+              }
+            },
+            "locationUid": {
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "omSite": {},
+            "organisation": {},
+            "region1": {
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "region1Name": {
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "region2": {
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "region2Name": {
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "rowseqId": {
+              "typicalLength": {
+                "value": 9
+              }
+            },
+            "siteName": {
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "sourceId": {
+              "typicalLength": {
+                "value": 18
+              }
+            },
+            "subSite": {
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "subSiteName": {
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "subsiteFlg": {
+              "typicalLength": {
+                "value": 25
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "span": 0,
+      "memberGroups": {}
+    },
+    {
+      "span": 0,
+      "memberGroups": {}
+    },
+    {
+      "span": 8,
+      "collections": {}
+    }
+  ],
+  "actions": {
+    "downloadLayout": {
+      "named": {
+        "value": "Download Layout"
+      }
+    },
+    "createAsset": {
+      "named": {
+        "value": "Create Asset"
+      }
+    },
+    "createPointpath": {
+      "named": {
+        "value": "Create Pointpath"
+      }
+    }
+  }
+}

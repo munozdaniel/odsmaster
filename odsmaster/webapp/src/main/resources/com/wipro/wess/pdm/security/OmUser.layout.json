@@ -1,0 +1,52 @@
+{
+  "columns": [
+    {
+      "span": 4,
+      "memberGroups": {
+        "General": {
+          "members": {
+            "password": {
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "userId": {
+              "typicalLength": {
+                "value": 18
+              }
+            },
+            "userName": {
+              "typicalLength": {
+                "value": 25
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "span": 0,
+      "memberGroups": {}
+    },
+    {
+      "span": 0,
+      "memberGroups": {}
+    },
+    {
+      "span": 8,
+      "collections": {}
+    }
+  ],
+  "actions": {
+    "downloadLayout": {
+      "named": {
+        "value": "Download Layout"
+      }
+    },
+    "addRoleToUser": {
+      "named": {
+        "value": "Add Role To User"
+      }
+    }
+  }
+}

@@ -1,0 +1,165 @@
+{
+  "columns": [
+    {
+      "span": 4,
+      "memberGroups": {
+        "General": {
+          "members": {
+            "MUnit": {
+              "hidden": {
+                "where": "ALL_TABLES"
+              }
+            },
+            "MUnitFamily": {
+              "hidden": {
+                "where": "ALL_TABLES"
+              }
+            },
+            "assetclassCode": {},
+            "changeby": {
+              "hidden": {
+                "where": "OBJECT_FORMS"
+              },
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "changedate": {
+              "hidden": {
+                "where": "OBJECT_FORMS"
+              },
+              "typicalLength": {
+                "value": 18
+              }
+            },
+            "datapointtype": {
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "description": {
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "discardPassHigh": {
+              "hidden": {
+                "where": "ALL_TABLES"
+              },
+              "typicalLength": {
+                "value": 10
+              }
+            },
+            "discardPassLow": {
+              "hidden": {
+                "where": "ALL_TABLES"
+              },
+              "typicalLength": {
+                "value": 10
+              }
+            },
+            "point": {
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "rowseqId": {
+              "hidden": {},
+              "typicalLength": {
+                "value": 9
+              }
+            },
+            "sourceId": {
+              "hidden": {
+                "where": "ALL_TABLES"
+              },
+              "typicalLength": {
+                "value": 18
+              }
+            },
+            "state0": {
+              "hidden": {
+                "where": "ALL_TABLES"
+              },
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "state1": {
+              "hidden": {
+                "where": "ALL_TABLES"
+              },
+              "typicalLength": {
+                "value": 25
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "span": 0,
+      "memberGroups": {}
+    },
+    {
+      "span": 0,
+      "memberGroups": {}
+    },
+    {
+      "span": 8,
+      "collections": {}
+    }
+  ],
+  "actions": {
+    "downloadLayout": {
+      "named": {
+        "value": "Download Layout"
+      }
+    },
+    "createPointpath": {
+      "named": {
+        "value": "Create Pointpath"
+      }
+    },
+    "createUOMPointlistCountryExcept": {
+      "named": {
+        "value": "Create UOM Pointlist Country Except"
+      }
+    },
+    "createUOMPointlistCountryExceptAudit": {
+      "named": {
+        "value": "Create UOM Pointlist Country ExceptAudit"
+      }
+    },
+    "createUOMPointlistCountryPolicy": {
+      "named": {
+        "value": "Create UOM Pointlist Country Policy"
+      }
+    },
+    "createUOMPointlistCountryPolicyAudit": {
+      "named": {
+        "value": "Create UOM Pointlist Country PolicyAudit"
+      }
+    },
+    "createUOMPointlistOrgPolicy": {
+      "named": {
+        "value": "Create UOM Pointlist Org Policy"
+      }
+    },
+    "createUOMPointlistOrgPolicyAudit": {
+      "named": {
+        "value": "Create UOM Pointlist Org PolicyAudit"
+      }
+    },
+    "createUOMPointlistSiteExcept": {
+      "named": {
+        "value": "Create UOM Pointlist SiteExcept"
+      }
+    },
+    "createUOMPointlistSiteExceptAudit": {
+      "named": {
+        "value": "Create UOM Pointlist SiteExceptAudit"
+      }
+    }
+  }
+}

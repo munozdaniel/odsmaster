@@ -1,0 +1,48 @@
+{
+  "columns": [
+    {
+      "span": 4,
+      "memberGroups": {
+        "General": {
+          "members": {
+            "permission": {
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "permissionId": {
+              "typicalLength": {
+                "value": 18
+              }
+            },
+            "site": {}
+          }
+        }
+      }
+    },
+    {
+      "span": 0,
+      "memberGroups": {}
+    },
+    {
+      "span": 0,
+      "memberGroups": {}
+    },
+    {
+      "span": 8,
+      "collections": {}
+    }
+  ],
+  "actions": {
+    "downloadLayout": {
+      "named": {
+        "value": "Download Layout"
+      }
+    },
+    "addPermissionToRole": {
+      "named": {
+        "value": "Add Permission To Role"
+      }
+    }
+  }
+}

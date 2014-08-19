@@ -1,0 +1,88 @@
+{
+  "columns": [
+    {
+      "span": 4,
+      "memberGroups": {
+        "General": {
+          "members": {
+            "MSourcetypeConfig": {},
+            "changeTs": {
+              "hidden": {
+                "where": "OBJECT_FORMS"
+              },
+              "typicalLength": {
+                "value": 18
+              }
+            },
+            "insertedBy": {
+              "hidden": {},
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "insertedTimeTs": {
+              "hidden": {},
+              "typicalLength": {
+                "value": 18
+              }
+            },
+            "masterF": {
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "omSite": {},
+            "referenceCmF": {
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "referenceOmF": {
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "referenceUmF": {
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "siteSrefFormulaId": {
+              "hidden": {},
+              "typicalLength": {
+                "value": 18
+              }
+            },
+            "sourceId": {
+              "hidden": {
+                "where": "ALL_TABLES"
+              },
+              "typicalLength": {
+                "value": 18
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "span": 0,
+      "memberGroups": {}
+    },
+    {
+      "span": 0,
+      "memberGroups": {}
+    },
+    {
+      "span": 8,
+      "collections": {}
+    }
+  ],
+  "actions": {
+    "downloadLayout": {
+      "named": {
+        "value": "Download Layout"
+      }
+    }
+  }
+}

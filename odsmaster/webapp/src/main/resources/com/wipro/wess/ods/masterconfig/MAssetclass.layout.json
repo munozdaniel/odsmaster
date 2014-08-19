@@ -1,0 +1,74 @@
+{
+  "columns": [
+    {
+      "span": 4,
+      "memberGroups": {
+        "General": {
+          "members": {
+            "assetclass": {
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "assetclassCode": {
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "changeby": {
+              "hidden": {
+                "where": "OBJECT_FORMS"
+              },
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "changedt": {
+              "hidden": {
+                "where": "OBJECT_FORMS"
+              },
+              "typicalLength": {
+                "value": 18
+              }
+            },
+            "rowseqId": {
+              "hidden": {},
+              "typicalLength": {
+                "value": 9
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "span": 0,
+      "memberGroups": {}
+    },
+    {
+      "span": 0,
+      "memberGroups": {}
+    },
+    {
+      "span": 8,
+      "collections": {}
+    }
+  ],
+  "actions": {
+    "downloadLayout": {
+      "named": {
+        "value": "Download Layout"
+      }
+    },
+    "createAsset": {
+      "named": {
+        "value": "Create Asset"
+      }
+    },
+    "createPointList": {
+      "named": {
+        "value": "Create PointList"
+      }
+    }
+  }
+}

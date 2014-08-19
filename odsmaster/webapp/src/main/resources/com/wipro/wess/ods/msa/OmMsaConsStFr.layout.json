@@ -1,0 +1,93 @@
+{
+  "columns": [
+    {
+      "span": 4,
+      "memberGroups": {
+        "General": {
+          "members": {
+            "businessLoad": {
+              "hidden": {
+                "where": "ALL_TABLES"
+              },
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "insertedBy": {
+              "hidden": {},
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "insertedTs": {
+              "hidden": {},
+              "typicalLength": {
+                "value": 18
+              }
+            },
+            "meterFormula": {
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "msaUid": {},
+            "orgId": {},
+            "serviceType": {
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "sourceId": {
+              "hidden": {
+                "where": "ALL_TABLES"
+              },
+              "typicalLength": {
+                "value": 18
+              }
+            },
+            "typeCode": {
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "updatedBy": {
+              "hidden": {
+                "where": "OBJECT_FORMS"
+              },
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "updatedTimeTs": {
+              "hidden": {
+                "where": "OBJECT_FORMS"
+              },
+              "typicalLength": {
+                "value": 18
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "span": 0,
+      "memberGroups": {}
+    },
+    {
+      "span": 0,
+      "memberGroups": {}
+    },
+    {
+      "span": 8,
+      "collections": {}
+    }
+  ],
+  "actions": {
+    "downloadLayout": {
+      "named": {
+        "value": "Download Layout"
+      }
+    }
+  }
+}

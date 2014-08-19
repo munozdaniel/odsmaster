@@ -1,0 +1,47 @@
+{
+  "columns": [
+    {
+      "span": 4,
+      "memberGroups": {}
+    },
+    {
+      "span": 0,
+      "memberGroups": {}
+    },
+    {
+      "span": 0,
+      "memberGroups": {}
+    },
+    {
+      "span": 8,
+      "collections": {}
+    }
+  ],
+  "actions": {
+    "downloadMetaModel": {
+      "named": {
+        "value": "Download Meta Model"
+      }
+    },
+    "downloadLayout": {
+      "named": {
+        "value": "Download Layout"
+      }
+    },
+    "downloadLayouts": {
+      "named": {
+        "value": "Download Layouts"
+      }
+    },
+    "refreshServices": {
+      "named": {
+        "value": "Refresh Services"
+      }
+    },
+    "refreshLayout": {
+      "named": {
+        "value": "Refresh Layout"
+      }
+    }
+  }
+}

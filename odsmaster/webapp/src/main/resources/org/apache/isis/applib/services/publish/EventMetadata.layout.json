@@ -1,0 +1,101 @@
+{
+  "columns": [
+    {
+      "span": 4,
+      "memberGroups": {
+        "General": {
+          "members": {
+            "actionIdentifier": {
+              "disabled": {},
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "eventType": {
+              "disabled": {},
+              "typicalLength": {
+                "value": 17
+              }
+            },
+            "id": {
+              "disabled": {},
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "javaSqlTimestamp": {
+              "disabled": {},
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "sequence": {
+              "disabled": {},
+              "typicalLength": {
+                "value": 9
+              }
+            },
+            "target": {
+              "disabled": {}
+            },
+            "targetAction": {
+              "disabled": {},
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "targetClass": {
+              "disabled": {},
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "timestamp": {
+              "disabled": {},
+              "typicalLength": {
+                "value": 18
+              }
+            },
+            "title": {
+              "disabled": {},
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "transactionId": {
+              "disabled": {},
+              "typicalLength": {
+                "value": 36
+              }
+            },
+            "user": {
+              "disabled": {},
+              "typicalLength": {
+                "value": 25
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "span": 0,
+      "memberGroups": {}
+    },
+    {
+      "span": 0,
+      "memberGroups": {}
+    },
+    {
+      "span": 8,
+      "collections": {}
+    }
+  ],
+  "actions": {
+    "downloadLayout": {
+      "named": {
+        "value": "Download Layout"
+      }
+    }
+  }
+}

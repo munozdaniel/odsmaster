@@ -1,0 +1,55 @@
+{
+  "columns": [
+    {
+      "span": 3,
+      "memberGroups": {
+        "General": {
+          "members": {
+            "orgId": {},
+            "orgName": {},
+            "orgDesc": {},
+            "consolidationApproachName": {}
+          }
+        }
+      }
+    },
+    {
+      "span": 3,
+      "memberGroups": {
+        "Detail": {
+          "members": {            
+            "primaryNumber": {},
+            "invBaseYear": {},
+            "ghgAccPeriodFrom": {},
+            "ghgAccPeriodTo": {}
+          }
+        }
+      }
+    },
+    {
+      "span": 5,
+      "memberGroups": {
+        "ContactDetails": {
+          "members": {
+            "streetAddress": {},
+            "addressLine2": {},
+            "city": {},
+            "postalCode": {},
+            "country": {}
+          }
+        }
+      }
+    },
+    {
+      "span": 6,
+      "collections": {
+      	"omOrgExtendedAttrs": {}
+      }
+    }
+  ],
+  "actions": {
+    "downloadLayout": {},
+    "refreshLayout": {},
+    "delete": {}
+  }
+}

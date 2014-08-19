@@ -1,0 +1,48 @@
+{
+  "columns": [
+    {
+      "span": 4,
+      "memberGroups": {
+        "General": {
+          "members": {
+            "alnValue": {
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "attributeName": {
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "numValue": {
+              "typicalLength": {
+                "value": 10
+              }
+            },
+            "scaUid": {}
+          }
+        }
+      }
+    },
+    {
+      "span": 0,
+      "memberGroups": {}
+    },
+    {
+      "span": 0,
+      "memberGroups": {}
+    },
+    {
+      "span": 8,
+      "collections": {}
+    }
+  ],
+  "actions": {
+    "downloadLayout": {
+      "named": {
+        "value": "Download Layout"
+      }
+    }
+  }
+}

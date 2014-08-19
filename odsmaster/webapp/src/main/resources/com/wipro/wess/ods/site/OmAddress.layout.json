@@ -1,0 +1,69 @@
+{
+  "columns": [
+    {
+      "span": 4,
+      "memberGroups": {
+        "General": {
+          "members": {
+            "addressId": {
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "city": {
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "country": {
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "orgId": {},
+            "postalCode": {
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "state": {
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "streetName": {
+              "typicalLength": {
+                "value": 25
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "span": 0,
+      "memberGroups": {}
+    },
+    {
+      "span": 0,
+      "memberGroups": {}
+    },
+    {
+      "span": 8,
+      "collections": {
+        "sites": {
+          "paged": {
+            "value": 12
+          }
+        }
+      }
+    }
+  ],
+  "actions": {
+    "downloadLayout": {
+      "named": {
+        "value": "Download Layout"
+      }
+    }
+  }
+}

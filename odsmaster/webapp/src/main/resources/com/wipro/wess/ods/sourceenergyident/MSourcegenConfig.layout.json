@@ -1,0 +1,62 @@
+{
+  "columns": [
+    {
+      "span": 4,
+      "memberGroups": {
+        "General": {
+          "members": {
+            "description": {
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "generationId": {
+              "typicalLength": {
+                "value": 18
+              }
+            },
+            "generationTechnology": {
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "insertedBy": {
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "insertedTimeTs": {
+              "typicalLength": {
+                "value": 18
+              }
+            },
+            "sourceId": {
+              "typicalLength": {
+                "value": 18
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "span": 0,
+      "memberGroups": {}
+    },
+    {
+      "span": 0,
+      "memberGroups": {}
+    },
+    {
+      "span": 8,
+      "collections": {}
+    }
+  ],
+  "actions": {
+    "downloadLayout": {
+      "named": {
+        "value": "Download Layout"
+      }
+    }
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "columns": [
+    {
+      "span": 4,
+      "memberGroups": {
+        "General": {
+          "members": {
+            "alnValue": {
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "assetId": {},
+            "changeBy": {
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "changeDt": {
+              "typicalLength": {
+                "value": 18
+              }
+            },
+            "numValue": {
+              "typicalLength": {
+                "value": 10
+              }
+            },
+            "paramName": {
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "recordId": {
+              "typicalLength": {
+                "value": 9
+              }
+            },
+            "site": {}
+          }
+        }
+      }
+    },
+    {
+      "span": 0,
+      "memberGroups": {}
+    },
+    {
+      "span": 0,
+      "memberGroups": {}
+    },
+    {
+      "span": 8,
+      "collections": {}
+    }
+  ],
+  "actions": {
+    "downloadLayout": {
+      "named": {
+        "value": "Download Layout"
+      }
+    },
+    "process": {
+      "named": {
+        "value": "Process"
+      }
+    }
+  }
+}

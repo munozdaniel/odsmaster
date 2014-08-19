@@ -1,0 +1,56 @@
+{
+  "columns": [
+    {
+      "span": 4,
+      "memberGroups": {
+        "General": {
+          "members": {
+            "organisation": {},
+            "paramDes": {
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "parameterName": {
+              "typicalLength": {
+                "value": 25
+              }
+            },
+            "parameterValue": {
+              "typicalLength": {
+                "value": 25
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "span": 0,
+      "memberGroups": {}
+    },
+    {
+      "span": 0,
+      "memberGroups": {}
+    },
+    {
+      "span": 8,
+      "collections": {}
+    }
+  ],
+  "actions": {
+    "downloadLayout": {
+      "named": {
+        "value": "Download Layout"
+      }
+    },
+    "delete": {
+      "named": {
+        "value": "Delete"
+      },
+      "cssClass": {
+        "value": "x-caution"
+      }
+    }
+  }
+}
